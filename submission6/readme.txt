@@ -9,7 +9,7 @@ Paper title:
 Text Summarization using neural networks
 
 Paper presentation (anyone can view without login):
-https://youtu.be/OoadiHhqaB0
+https://docs.google.com/presentation/d/1Lo1f3cqUVDwXAfWWtSy0KcHQOpYTXKty-JCMC8qbjoE/edit?usp=sharing
 
 Group Number:
 26
