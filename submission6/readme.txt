@@ -3,7 +3,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/8631523851twktgspqzhdx
 
 Unlisted YouTube video:
-https://youtu.be/OoadiHhqaB0
+https://youtu.be/9tNVRVPrF5M
 
 Paper title:
 Text Summarization using neural networks
